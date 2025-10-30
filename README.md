@@ -6,7 +6,7 @@ This app helps you create strong, random passwords with full customization — c
 ---
 
 ## 🌐 Live Demo
-👉 **[Click here to visit the live site](https://your-live-site-link.com)**  
+👉 **[Click here to visit the live site](https://react-password-generator-sandy.vercel.app/)**  
 
 
 ---
