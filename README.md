@@ -34,8 +34,6 @@ This app helps you create strong, random passwords with full customization — c
 ---
 
 
----
-
 ## 🧩 How It Works
 
 1. **Choose your settings** – adjust the slider for length, and toggle options for numbers and symbols.  
